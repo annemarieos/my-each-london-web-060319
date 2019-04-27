@@ -7,6 +7,3 @@ def my_each(codes) # put argument(s) here
   end
   codes
 end   
-
-
-
